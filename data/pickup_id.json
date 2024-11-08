@@ -1,0 +1,86 @@
+[
+    {
+        "pickup_id": 101,
+        "name": "Av. do Fragoso, Coia, 94",
+        "latitude": 42.212831,
+        "longitude": -8.740269
+    },
+    {
+        "pickup_id": 102,
+        "name": "Av. de Castelao, Coia, 74",
+        "latitude": 42.217213,
+        "longitude": -8.753338
+    },
+    {
+        "pickup_id": 103,
+        "name": "Av. das Camelias",
+        "latitude": 42.235017,
+        "longitude": -8.726418
+    },
+    {
+        "pickup_id": 104,
+        "name": "Freijeiro",
+        "latitude": 42.230737,
+        "longitude": -8.725977
+    },
+    {
+        "pickup_id": 113,
+        "name": "Pl. de Compostela, 6",
+        "latitude": 42.239089,
+        "longitude": -8.722771
+    },
+    {
+        "pickup_id": 106,
+        "name": "Rúa Colón, 37",
+        "latitude": 42.235987,
+        "longitude": -8.720099
+    },
+    {
+        "pickup_id": 107,
+        "name": "Praza de España, 480",
+        "latitude": 42.229475,
+        "longitude": -8.719677
+    },
+    {
+        "pickup_id": 108,
+        "name": "Pl. de América",
+        "latitude": 42.220938,
+        "longitude": -8.732864
+    },
+    {
+        "pickup_id": 109,
+        "name": "Rúa Cánovas del Castillo, 3",
+        "latitude": 42.240392,
+        "longitude": -8.725851
+    },
+    {
+        "pickup_id": 111,
+        "name": "Av. Samil, 24",
+        "latitude": 42.218834, 
+		"longitude": -8.775546
+    },
+    {
+        "pickup_id": 112,
+        "name": "Plaza Estaciónn, Santiago de Vigo",
+        "latitude": 42.233983,
+        "longitude":  -8.714216
+    },
+    {
+        "pickup_id": 100,
+        "name": "Pistas Box",
+        "latitude": 42.1019131,
+        "longitude":  -8.6146722
+    },
+    {
+        "pickup_id": 105,
+        "name": "Pistas 1",
+        "latitude": 42.1030852,
+        "longitude": -8.6137683
+    },
+    {
+        "pickup_id": 110,
+        "name": "Pistas 2",
+        "latitude": 42.1021927,
+        "longitude":  -8.6148439
+    }
+]
